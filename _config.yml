@@ -101,7 +101,8 @@ ignore:
 theme: butterfly
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: git
-  repo: https://github.com/Afraid-Linx/Afraid-Linx.github.io.git
-  branch: master
+
+#deploy:
+  #type: git
+  #repo: https://github.com/Afraid-Linx/Afraid-Linx.github.io.git
+  #branch: master
