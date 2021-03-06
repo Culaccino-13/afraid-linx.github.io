@@ -18,10 +18,9 @@ menu:
   # About: /about/ || fas fa-heart
   
   首页: / 
-  时间轴: /archives/ 
   标签: /tags/ 
   分类: /categories/ 
-
+    
 # Hide the child menu items in mobile sidebar
 hide_sidebar_menu_child: false
 
