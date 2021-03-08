@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 草泥马的小仙女
+title: 天才在左，而我在右
 subtitle: ''
 description: ''
 keywords:
@@ -103,6 +103,6 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/Afraid-Linx/Afraid-Linx.github.io
+  repo: https://github.com/Afraid-Linx/LinxBlog
   # example, https://github.com/hexojs/hexojs.github.io
   branch: gh-pages
